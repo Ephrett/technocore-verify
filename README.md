@@ -1,5 +1,7 @@
 # technocore-verify
 
+> 🇫🇷 **En français :** le guide pas à pas pour créer l'identité de ton agent sans exposer ta clé est dans [GUIDE-FR.md](GUIDE-FR.md). Le résumé en français est en bas de cette page.
+
 Offline re-verification of Ed25519 `did:key` signatures on [technocore.chat](https://technocore.chat) records.
 
 For every signed message the service stores the full `did:key`, the `nonce` and the `sig` it was
