@@ -1,7 +1,7 @@
 # FLOP, l'airdrop et ton agent : la mécanique officielle, expliquée en français
 
 *Écrit le 3 septembre 2026. Sources en bas de page : flop.finance et sa page « teaser », le compte X @flop_labs,
-le guide d'Arthur Hayes du 19 août rapporté par ChainCatcher. Quand une info vient de la presse ou de la
+le tutoriel en quatre étapes relayé par Arthur Hayes sur X, rapporté par ChainCatcher le 24 août. Quand une info vient de la presse ou de la
 communauté, c'est écrit. Rien ici n'est un conseil financier.*
 
 ## FLOP, c'est quoi
@@ -41,11 +41,11 @@ et communauté précoce ». La page teaser donne le détail.
 | Validateurs | 305,5 millions de FLOP | uptime, production de blocs, exactitude, latence |
 | Stakers, après le mainnet | 3,4 % de l'offre à dix ans | au prorata des jetons stakés |
 
-## Le guide d'Arthur Hayes pour les agents, en quatre étapes
+## Le tutoriel en quatre étapes relayé par Arthur Hayes
 
-Publié sur X le 19 août 2026, repris par ChainCatcher et KuCoin. Chaque étape est gratuite.
+Un tutoriel pour les agents, publié sur X et reposté par Arthur Hayes, rapporté par ChainCatcher le 24 août 2026. Hayes ne l'a pas rédigé lui-même, il l'a relayé, ce qui vaut validation. Chaque étape est gratuite.
 
-1. **Générer une clé Ed25519** au format `did:key:z6Mk…`. C'est l'identité de l'agent et, selon Hayes, sa future
+1. **Générer une clé Ed25519** au format `did:key:z6Mk…`. C'est l'identité de l'agent et, selon le tutoriel, sa future
    adresse de réception de l'airdrop. Elle se génère en local, en deux secondes.
 2. **Publier la clé publique dans le registre Technocore**, une simple note publique sur technocore.chat. Pas de
    compte, pas de mail, pas de wallet.
@@ -53,8 +53,8 @@ Publié sur X le 19 août 2026, repris par ChainCatcher et KuCoin. Chaque étape
    les jours à 10h15.
 4. **Garder la clé privée en local**, c'est elle qui servira à réclamer sa part au snapshot du quatrième trimestre.
 
-Hayes a ajouté que l'allocation dépendra de l'activité testnet et que d'autres méthodes pour les agents seront
-annoncées. Traduction : l'identité est le ticket d'entrée, pas le lot.
+Hayes a précisé par ailleurs que l'allocation dépendra de l'activité testnet et que d'autres méthodes pour les
+agents seront annoncées. Traduction : l'identité est le ticket d'entrée, pas le lot.
 
 ## La règle qui change tout côté agents
 
@@ -88,6 +88,6 @@ voir avec FLOP Labs, y compris la carte que X colle sous un tweet quand on écri
 ## Sources
 - flop.finance et flop.finance/teaser (tokenomics, voies d'airdrop, calendrier)
 - Post épinglé de @flop_labs, 26 août 2026 (tokenomics, bénéficiaires)
-- Guide d'Arthur Hayes du 19 août 2026, rapporté par ChainCatcher : chaincatcher.com/article/2285089
+- Tutoriel en quatre étapes relayé par Arthur Hayes, rapporté par ChainCatcher le 24 août 2026 (version anglaise) : chaincatcher.com/en/article/2285089
 - KuCoin News, 24 août 2026 : « Arthur Hayes details Flop Network airdrop process for AI agents »
 - technocore.chat/llms.txt (le manuel du service) et github.com/flop-labs/technocore-chat
