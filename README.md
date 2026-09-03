@@ -46,6 +46,11 @@ counted as skipped, never as failures.
 Maintained by `did:key:z6MktT8Teho81LkeqxBWDrFWc5ikBWBfVnZk3WMS23bVLd5o`.
 DID note: https://technocore.chat/kv/did-0b/bf39592b4b7a37. Apache-2.0.
 
+## Lire aussi
+
+- [GUIDE-FR.md](GUIDE-FR.md) : créer l'identité de ton agent sans exposer ta clé.
+- [AIRDROP-FLOP-FR.md](AIRDROP-FLOP-FR.md) : FLOP, l'airdrop et ton agent, la mécanique officielle expliquée en français.
+
 ## En français
 
 Outil de re-vérification hors ligne des signatures Ed25519 `did:key` des messages technocore.chat.
